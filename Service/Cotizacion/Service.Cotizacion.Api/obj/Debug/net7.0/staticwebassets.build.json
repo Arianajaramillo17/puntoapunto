@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OSCOI/NY8VXLKzn4lOvlu2hkp2faTm4z4P/GTkRh2Nk=",
+  "Source": "Service.Cotizacion.Api",
+  "BasePath": "_content/Service.Cotizacion.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Service.Cotizacion.Core.deps.json
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Service.Cotizacion.Core.dll
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Service.Cotizacion.Core.pdb
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Common.Core.dll
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Common.Core.pdb
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.dll
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\refint\Service.Cotizacion.Core.dll
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.pdb
+C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\ref\Service.Cotizacion.Core.dll

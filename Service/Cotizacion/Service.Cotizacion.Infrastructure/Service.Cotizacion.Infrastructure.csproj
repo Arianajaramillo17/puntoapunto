@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+ <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1" />
+  </ItemGroup>
+   <ItemGroup>
+    <ProjectReference Include="..\Service.Cotizacion.Application\Service.Cotizacion.Application.csproj" />
+    <ProjectReference Include="..\Service.Cotizacion.Core\Service.Cotizacion.Core.csproj" />
+    <ProjectReference Include="..\..\..\Common\Common.Application\Common.Application.csproj" />
+
+  </ItemGroup>
+  
+<ItemGroup>
+    <None Remove="Configuration\" />
+    <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+    <None Remove="Repositories\" />
+  </ItemGroup>
+</Project>
