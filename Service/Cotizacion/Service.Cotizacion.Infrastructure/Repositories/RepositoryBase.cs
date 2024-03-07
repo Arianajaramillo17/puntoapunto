@@ -5,12 +5,9 @@ using System.Threading.Tasks;
 using Common.Core.Base;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using Enty=Common.Applicattion.IRepositoryBase;
-
-namespace Service.Cotizacion.Infrastructure.Repositories
-{
-
-     public class RepositoryBase<T> : Enty<T> where T : EntityBase
+using Common.Application;
+namespace Service.Cotizacion.Infrastructure.Repositories;
+     public class RepositoryBase<T> : IRepositoryBase<T> where T : EntityBase
     {
         protected readonly CotizacionDbContext _dbContext;
 
@@ -104,5 +101,9 @@ namespace Service.Cotizacion.Infrastructure.Repositories
         {
             return await _dbContext.Set<T>().Where(predicate).CountAsync();
         }
+          public async Task UpdateRangeAsync(List<T> entities)
+        {
+            _dbContext.Set<T>().UpdateRange(entities);
+            await _dbContext.SaveChangesAsync();
+        }
     }
-}

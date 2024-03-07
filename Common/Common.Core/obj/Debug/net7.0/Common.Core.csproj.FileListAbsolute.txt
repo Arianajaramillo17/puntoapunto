@@ -1,12 +1,24 @@
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\bin\Debug\net7.0\Common.Core.deps.json
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\bin\Debug\net7.0\Common.Core.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\bin\Debug\net7.0\Common.Core.pdb
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\refint\Common.Core.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\Common.Core.pdb
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Core\obj\Debug\net7.0\ref\Common.Core.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/bin/Debug/net7.0/Common.Core.deps.json
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/bin/Debug/net7.0/Common.Core.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/bin/Debug/net7.0/Common.Core.pdb
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/refint/Common.Core.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/Common.Core.pdb
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Core/obj/Debug/net7.0/ref/Common.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/bin/Debug/net7.0/Common.Core.deps.json
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/bin/Debug/net7.0/Common.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/bin/Debug/net7.0/Common.Core.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.csproj.AssemblyReference.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.AssemblyInfoInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.AssemblyInfo.cs
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.csproj.CoreCompileInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/refint/Common.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/Common.Core.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/Debug/net7.0/ref/Common.Core.dll

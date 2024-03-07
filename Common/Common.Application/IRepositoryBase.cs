@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Common.Core.Base;
 using Microsoft.EntityFrameworkCore;
-namespace Common.Applicattion
+namespace Common.Application
 { public interface IRepositoryBase<T> where T : EntityBase
     {
         Task<IReadOnlyList<T>> GetAllAsync();

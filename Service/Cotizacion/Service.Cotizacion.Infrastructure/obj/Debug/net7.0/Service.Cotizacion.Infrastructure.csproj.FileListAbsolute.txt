@@ -1,5 +1,26 @@
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Infrastructure\obj\Debug\net7.0\Service.Cotizacion.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Infrastructure\obj\Debug\net7.0\Service.Cotizacion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Infrastructure\obj\Debug\net7.0\Service.Cotizacion.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Infrastructure\obj\Debug\net7.0\Service.Cotizacion.Infrastructure.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Service\Cotizacion\Service.Cotizacion.Infrastructure\obj\Debug\net7.0\Service.Cotizacion.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.csproj.AssemblyReference.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.AssemblyInfoInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.AssemblyInfo.cs
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Infrastructure.deps.json
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Infrastructure.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Infrastructure.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Common.Application.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Common.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Application.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Application.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Service.Cotizacion.Core.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Common.Application.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/bin/Debug/net7.0/Common.Core.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.csproj.CopyComplete
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/refint/Service.Cotizacion.Infrastructure.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/Service.Cotizacion.Infrastructure.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/Debug/net7.0/ref/Service.Cotizacion.Infrastructure.dll

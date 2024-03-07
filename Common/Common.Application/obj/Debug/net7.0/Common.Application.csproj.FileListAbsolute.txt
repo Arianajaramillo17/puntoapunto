@@ -1,15 +1,30 @@
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\bin\Debug\net7.0\Common.Application.deps.json
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\bin\Debug\net7.0\Common.Application.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\bin\Debug\net7.0\Common.Application.pdb
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\bin\Debug\net7.0\Common.Core.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\bin\Debug\net7.0\Common.Core.pdb
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.csproj.CopyComplete
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\refint\Common.Application.dll
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\Common.Application.pdb
-C:\Users\Usuario\Desktop\Proyecto Punto&Punto\Common\Common.Application\obj\Debug\net7.0\ref\Common.Application.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/bin/Debug/net7.0/Common.Application.deps.json
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/bin/Debug/net7.0/Common.Application.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/bin/Debug/net7.0/Common.Application.pdb
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/bin/Debug/net7.0/Common.Core.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/bin/Debug/net7.0/Common.Core.pdb
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.csproj.CopyComplete
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/refint/Common.Application.dll
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/Common.Application.pdb
+C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Common/Common.Application/obj/Debug/net7.0/ref/Common.Application.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/bin/Debug/net7.0/Common.Application.deps.json
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/bin/Debug/net7.0/Common.Application.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/bin/Debug/net7.0/Common.Application.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/bin/Debug/net7.0/Common.Core.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/bin/Debug/net7.0/Common.Core.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.csproj.AssemblyReference.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.AssemblyInfoInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.AssemblyInfo.cs
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.csproj.CoreCompileInputs.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.csproj.CopyComplete
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/refint/Common.Application.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/Common.Application.pdb
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/Debug/net7.0/ref/Common.Application.dll
