@@ -259,6 +259,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj": {
+                "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj"
+              },
               "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj": {
                 "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj"
               }
