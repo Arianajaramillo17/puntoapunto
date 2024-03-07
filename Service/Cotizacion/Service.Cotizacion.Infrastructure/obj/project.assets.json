@@ -4518,40 +4518,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rosmel Merlo\\.nuget\\packages\\": {}
+    "/Users/isw03/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Infrastructure\\Service.Cotizacion.Infrastructure.csproj",
+      "projectUniqueName": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/Service.Cotizacion.Infrastructure.csproj",
       "projectName": "Service.Cotizacion.Infrastructure",
-      "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Infrastructure\\Service.Cotizacion.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Rosmel Merlo\\.nuget\\packages\\",
-      "outputPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Infrastructure\\obj\\",
+      "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/Service.Cotizacion.Infrastructure.csproj",
+      "packagesPath": "/Users/isw03/.nuget/packages/",
+      "outputPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rosmel Merlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/isw03/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj": {
-              "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj"
+            "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj": {
+              "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj"
             },
-            "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj": {
-              "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj"
+            "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj": {
+              "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj"
             },
-            "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj": {
-              "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj"
+            "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj": {
+              "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj"
             }
           }
         }
@@ -4587,7 +4585,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

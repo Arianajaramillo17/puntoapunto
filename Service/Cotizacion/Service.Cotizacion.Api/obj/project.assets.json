@@ -5815,37 +5815,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rosmel Merlo\\.nuget\\packages\\": {}
+    "/Users/isw03/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Api\\Service.Cotizacion.Api.csproj",
+      "projectUniqueName": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/Service.Cotizacion.Api.csproj",
       "projectName": "Service.Cotizacion.Api",
-      "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Api\\Service.Cotizacion.Api.csproj",
-      "packagesPath": "C:\\Users\\Rosmel Merlo\\.nuget\\packages\\",
-      "outputPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Api\\obj\\",
+      "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/Service.Cotizacion.Api.csproj",
+      "packagesPath": "/Users/isw03/.nuget/packages/",
+      "outputPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rosmel Merlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/isw03/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj": {
-              "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj"
+            "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj": {
+              "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj"
             },
-            "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Infrastructure\\Service.Cotizacion.Infrastructure.csproj": {
-              "projectPath": "F:\\Rosmel Merlo\\proyectos\\Angela\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Infrastructure\\Service.Cotizacion.Infrastructure.csproj"
+            "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/Service.Cotizacion.Infrastructure.csproj": {
+              "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Infrastructure/Service.Cotizacion.Infrastructure.csproj"
             }
           }
         }
@@ -5902,7 +5900,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
