@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
     <ItemGroup>
-    <ProjectReference Include="..\Service.Cotizacion.Core\Service.Cotizacion.Core.csproj" />
-<ProjectReference Include="..\..\Common\Service.Common.Core\Service.Common.Core.csproj" />
+<ProjectReference Include="..\..\..\Common\Service.Common.Application\Service.Common.Application.csproj" />
+ <ProjectReference Include="..\Service.Cotizacion.Core\Service.Cotizacion.Core.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="12.0.0" />
@@ -19,3 +19,4 @@
     <PackageReference Include="Refit" Version="6.3.2" />
   </ItemGroup>
 </Project>
++
