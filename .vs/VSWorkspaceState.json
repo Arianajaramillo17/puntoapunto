@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Common",
+    "\\Service",
+    "\\Service\\Cotizacion",
+    "\\Service\\Cotizacion\\Service.Cotizacion.Api",
+    "\\Service\\Cotizacion\\Service.Cotizacion.Api\\Controllers",
+    "\\Service\\Cotizacion\\Service.Cotizacion.Application"
+  ],
+  "SelectedNode": "\\Service\\Cotizacion\\Service.Cotizacion.Api\\Controllers\\TipoMaterialController.cs",
+  "PreviewInSolutionExplorer": false
+}

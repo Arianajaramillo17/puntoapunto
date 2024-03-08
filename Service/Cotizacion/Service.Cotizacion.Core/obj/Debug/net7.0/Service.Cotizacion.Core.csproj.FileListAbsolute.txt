@@ -13,21 +13,6 @@ C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizac
 C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/refint/Service.Cotizacion.Core.dll
 C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.pdb
 C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/ref/Service.Cotizacion.Core.dll
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Service.Cotizacion.Core.deps.json
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Service.Cotizacion.Core.dll
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Service.Cotizacion.Core.pdb
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Common.Core.dll
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Common.Core.pdb
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.csproj.AssemblyReference.cache
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.AssemblyInfoInputs.cache
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.AssemblyInfo.cs
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.csproj.CoreCompileInputs.cache
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.csproj.CopyComplete
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.dll
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/refint/Service.Cotizacion.Core.dll
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.pdb
-D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/ref/Service.Cotizacion.Core.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Service.Cotizacion.Core.deps.json
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Service.Cotizacion.Core.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/bin/Debug/net7.0/Service.Cotizacion.Core.pdb
@@ -43,3 +28,18 @@ D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/refint/Service.Cotizacion.Core.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/Service.Cotizacion.Core.pdb
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/Debug/net7.0/ref/Service.Cotizacion.Core.dll
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.csproj.AssemblyReference.cache
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.AssemblyInfoInputs.cache
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.AssemblyInfo.cs
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.dll
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\refint\Service.Cotizacion.Core.dll
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.pdb
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Service.Cotizacion.Core.deps.json
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Service.Cotizacion.Core.dll
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Service.Cotizacion.Core.pdb
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Common.Core.dll
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\bin\Debug\net7.0\Common.Core.pdb
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\Service.Cotizacion.Core.csproj.CopyComplete
+D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Core\obj\Debug\net7.0\ref\Service.Cotizacion.Core.dll

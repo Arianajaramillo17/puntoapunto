@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pmMl4jzRQJ0LaDV6QeuWopO4yuksNa+iseRkpexVzIfrlPWl1nRdmGhzITE3Gu0BAfVMzLN0Wa3Z7mMe91WQJA==",
+  "dgSpecHash": "XEA+v/YVbpd0Nif8fVcfAoga5HXaHPwSMh3MgoE5G6MdU1VveDNX+iaSLdZL5PYOPSmzTO8rmshbrYUI63Jf1w==",
   "success": true,
-  "projectFilePath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj",
+  "projectFilePath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj",
   "expectedPackageFiles": [
-    "/Users/isw03/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
