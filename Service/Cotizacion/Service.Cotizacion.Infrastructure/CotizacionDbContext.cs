@@ -28,7 +28,7 @@ namespace Service.Cotizacion.Infrastructure
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.HasDefaultSchema("crm");
+            modelBuilder.HasDefaultSchema("cotiza");
             ModelConfig(modelBuilder);
         }
 
