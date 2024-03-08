@@ -6,8 +6,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Service.Cotizacion.Infrastructure.Repositories;
-using Common.Application;
 using Service.Cotizacion.Application.Repositories;
+using Common.Application;
+
 namespace Service.Cotizacion.Infrastructure
 {
 

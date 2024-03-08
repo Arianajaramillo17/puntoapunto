@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Common.Core.Base;
+
 namespace Service.Cotizacion.Core.Entities
 {
     public class Cotizacion:EntityBase
