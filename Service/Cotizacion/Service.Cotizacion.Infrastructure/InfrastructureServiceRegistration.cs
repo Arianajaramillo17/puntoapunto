@@ -25,7 +25,7 @@ namespace Service.Cotizacion.Infrastructure
             //la cadena de conexion
             ));
 
-            services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
+                 services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
                   services.AddScoped<ICotizacionDetalleRepository, CotizacionDetalleRepository>();
                   services.AddScoped<ICotizacionRepository, CotizacionRepository>();
                   services.AddScoped<IEstadoCotizacionRepository, EstadoCotizacionRepository>();

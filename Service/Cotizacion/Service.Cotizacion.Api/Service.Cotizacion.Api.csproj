@@ -19,12 +19,12 @@
     </PackageReference>
     <PackageReference Include="Microsoft.ApplicationInsights" Version="2.21.0" />
   </ItemGroup>
-   <ItemGroup>
-    <ProjectReference Include="..\Service.Cotizacion.Application\Service.Cotizacion.Application.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\Service.Cotizacion.Infrastructure\Service.Cotizacion.Infrastructure.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-  </ItemGroup>
+     <ItemGroup>
+       <ProjectReference Include="..\Service.Cotizacion.Application\Service.Cotizacion.Application.csproj">
+         <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+       </ProjectReference>
+       <ProjectReference Include="..\Service.Cotizacion.Infrastructure\Service.Cotizacion.Infrastructure.csproj">
+         <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+       </ProjectReference>
+     </ItemGroup>
 </Project>
