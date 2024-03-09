@@ -1,12 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using MediatR;
 using System.Linq.Expressions;
 using Service.Cotizacion.Application.Repositories;
 using Entity = Service.Cotizacion.Core.Entities;
 using Service.Cotizacion.Application.validacion;
+using MediatR;
+
 namespace Service.Cotizacion.Application.Commands.Cotizacion.Crear
 {
     public class CrearCotizacionCommandHandler:IRequestHandler<CrearCotizacionCommand,ValidarRespuestaDTO<string>>
@@ -29,7 +26,9 @@ namespace Service.Cotizacion.Application.Commands.Cotizacion.Crear
 
                 var ECot = await _estadoCotizacionRepository.GetEntityAsync(param);
 
-                Entity.Cotizacion coti = new Entity.Cotizacion
+if (ECot != null)
+{
+     Entity.Cotizacion coti = new Entity.Cotizacion
                 {
                     CotizacionId = Guid.NewGuid(),
                     Detalle = request.Detalle,
@@ -39,9 +38,17 @@ namespace Service.Cotizacion.Application.Commands.Cotizacion.Crear
                 await _cotizacionRepository.AddAsync(coti);
                 respuestaDTO = new ValidarRespuestaDTO<string>
                 {
-                    Mensaje = "Cotizaci�n creada con exito.",
+                    Mensaje = "Cotización creada con exito.",
                     Success = true
-                };
+                };}
+else
+{
+    respuestaDTO = new ValidarRespuestaDTO<string>
+                {
+                    Mensaje = "Cotización sin exito de creado.",
+                    Success = false
+                };}
+           
                 return respuestaDTO;
 
             }

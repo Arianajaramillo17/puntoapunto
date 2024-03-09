@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj": {}
+    "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj": {
+    "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj",
+        "projectUniqueName": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj",
         "projectName": "Common.Application",
-        "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\obj\\",
+        "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj",
+        "packagesPath": "/Users/isw03/.nuget/packages/",
+        "outputPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/isw03/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj": {
-                "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj"
+              "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj": {
+                "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj"
               }
             }
           }
@@ -69,32 +63,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj": {
+    "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj",
+        "projectUniqueName": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj",
         "projectName": "Common.Core",
-        "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\obj\\",
+        "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj",
+        "packagesPath": "/Users/isw03/.nuget/packages/",
+        "outputPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/isw03/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,43 +122,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj": {
+    "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj",
+        "projectUniqueName": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj",
         "projectName": "Service.Cotizacion.Application",
-        "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\Service.Cotizacion.Application.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Application\\obj\\",
+        "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/Service.Cotizacion.Application.csproj",
+        "packagesPath": "/Users/isw03/.nuget/packages/",
+        "outputPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/isw03/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj": {
-                "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Application\\Common.Application.csproj"
+              "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj": {
+                "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Application/Common.Application.csproj"
               },
-              "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj": {
-                "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj"
+              "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj": {
+                "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj"
               }
             }
           }
@@ -187,27 +169,35 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
             },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.16.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.4.0, )"
+              "version": "[11.5.2, )"
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[11.4.0, )"
-            },
-            "MediatR": {
-              "target": "Package",
-              "version": "[11.1.0, )"
+              "version": "[11.5.2, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.8, )"
             },
             "Refit": {
               "target": "Package",
@@ -230,40 +220,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj": {
+    "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj",
+        "projectUniqueName": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj",
         "projectName": "Service.Cotizacion.Core",
-        "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\Service.Cotizacion.Core.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Personal\\puntoapunto\\Service\\Cotizacion\\Service.Cotizacion.Core\\obj\\",
+        "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/Service.Cotizacion.Core.csproj",
+        "packagesPath": "/Users/isw03/.nuget/packages/",
+        "outputPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Core/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/isw03/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj": {
-                "projectPath": "D:\\Proyectos\\Personal\\puntoapunto\\Common\\Common.Core\\Common.Core.csproj"
+              "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj": {
+                "projectPath": "/Users/isw03/Desktop/Puntoapunto/puntoapunto/Common/Common.Core/Common.Core.csproj"
               }
             }
           }
@@ -303,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

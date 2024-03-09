@@ -121,7 +121,6 @@ C:/Users/Usuario/Desktop/Proyecto Punto&Punto/Service/Cotizacion/Service.Cotizac
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Humanizer.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/MediatR.dll
-/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/MediatR.Contracts.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Microsoft.ApplicationInsights.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Microsoft.ApplicationInsights.AspNetCore.dll
@@ -314,12 +313,9 @@ D:/Proyectos/Personal/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/obj/
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.dll
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\refint\Service.Cotizacion.Api.dll
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.pdb
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.csproj.AssemblyReference.cache
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.GeneratedMSBuildEditorConfig.editorconfig
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.AssemblyInfoInputs.cache
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.AssemblyInfo.cs
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.csproj.CoreCompileInputs.cache
-D:\Proyectos\Personal\puntoapunto\Service\Cotizacion\Service.Cotizacion.Api\obj\Debug\net7.0\Service.Cotizacion.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Azure.Storage.Common.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/isw03/Desktop/Puntoapunto/puntoapunto/Service/Cotizacion/Service.Cotizacion.Api/bin/Debug/net7.0/System.IO.Hashing.dll

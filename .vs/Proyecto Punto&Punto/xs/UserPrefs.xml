@@ -6,12 +6,32 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Repositorio/IDSLatam/Service/CRM/IDSLatam.Service.CRM.Infrastructure/Configuration/CotizacionDetalleConfiguration.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/Cotizacion/Service.Cotizacion.Application/Commands/Cotizacion/Crear/CrearCotizacionCommandHandler.cs">
+    <Files>
+      <File FileName="Service/Cotizacion/Service.Cotizacion.Api/Program.cs" Line="26" Column="27" />
+      <File FileName="Service/Cotizacion/Service.Cotizacion.Application/ApplicationServiceRegistration.cs" Line="7" Column="55" />
+      <File FileName="Service/Cotizacion/Service.Cotizacion.Application/Commands/Cotizacion/Crear/CrearCotizacionCommand.cs" Line="1" Column="1" />
+      <File FileName="Service/Cotizacion/Service.Cotizacion.Application/Commands/Cotizacion/Crear/CrearCotizacionCommandHandler.cs" Line="17" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Proyecto Punto&amp;Punto">
+          <Node name="Proyecto Punto&amp;Punto" expanded="True">
             <Node name="Common" expanded="True" />
+            <Node name="Service" expanded="True">
+              <Node name="Cotizacion" expanded="True">
+                <Node name="Service.Cotizacion.Api" expanded="True">
+                  <Node name="Dependencies" expanded="True" />
+                  <Node name="appsettings.json" expanded="True" />
+                </Node>
+                <Node name="Service.Cotizacion.Application">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Service.Cotizacion.Infrastructure" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

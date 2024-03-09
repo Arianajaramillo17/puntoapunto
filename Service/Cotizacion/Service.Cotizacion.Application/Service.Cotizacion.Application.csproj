@@ -9,14 +9,29 @@
  <ProjectReference Include="..\Service.Cotizacion.Core\Service.Cotizacion.Core.csproj" />
  <ProjectReference Include="..\..\..\Common\Common.Application\Common.Application.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="12.0.0" />
+   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
-    <PackageReference Include="FluentValidation" Version="11.4.0" />
-    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.4.0" />
-    <PackageReference Include="MediatR" Version="11.1.0" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
-    <PackageReference Include="Refit" Version="6.3.2" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.16.0" />
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.2" />
+    <!-- <PackageReference Include="MediatR" Version="12.0.1" /> -->
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0-preview.3.23174.8" />
+     <PackageReference Include="Refit" Version="6.3.2" />
   </ItemGroup>
+   <ItemGroup>
+     <None Remove="Commands\CotizacionDetalle\" />
+     <None Remove="Commands\CotizacionDetalle\Crear\" />
+     <None Remove="Commands\Cotizacion\Editar\" />
+     <None Remove="Commands\CotizacionDetalle\Editar\" />
+   </ItemGroup>
+   <ItemGroup>
+     <Folder Include="Commands\CotizacionDetalle\" />
+     <Folder Include="Commands\CotizacionDetalle\Crear\" />
+     <Folder Include="Commands\Cotizacion\Editar\" />
+     <Folder Include="Commands\CotizacionDetalle\Editar\" />
+   </ItemGroup>
 </Project>
 
