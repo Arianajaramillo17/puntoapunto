@@ -32,5 +32,14 @@ namespace Service.Cotizacion.Api.Controllers
         //    var result = await _mediator.Send(command);
         //    return Ok(result);
         //}
+        //[HttpDelete("EliminarPersona", Name = "EliminarPersona")]
+        //[ProducesResponseType(typeof(ValidarRespuestaDTO<string>), (int)HttpStatusCode.OK)]
+        //public async Task<ActionResult<ValidarRespuestaDTO<string>>> EliminarProducto(Guid personaId)
+        //{
+        //    EliminarPersonaCommand eliminarProducto = new EliminarPersonaCommand(personaId);
+        //    var result = await _mediator.Send(eliminarProducto);
+        //    return Ok(result);
+
+        //}
     }
 }

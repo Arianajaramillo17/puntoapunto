@@ -26,12 +26,24 @@
      <None Remove="Commands\CotizacionDetalle\Crear\" />
      <None Remove="Commands\Cotizacion\Editar\" />
      <None Remove="Commands\CotizacionDetalle\Editar\" />
+     <None Remove="Queries\" />
+     <None Remove="Queries\Cotizacion\" />
+     <None Remove="Queries\Cotizacion\CotizacionDetalleListado\" />
+     <None Remove="Queries\Cotizacion\CotizacionListado\" />
+     <None Remove="Queries\Cotizacion\ComboTipoMaterial\" />
+     <None Remove="Queries\Cotizacion\ComboMaterialPrimario\" />
    </ItemGroup>
    <ItemGroup>
      <Folder Include="Commands\CotizacionDetalle\" />
      <Folder Include="Commands\CotizacionDetalle\Crear\" />
      <Folder Include="Commands\Cotizacion\Editar\" />
      <Folder Include="Commands\CotizacionDetalle\Editar\" />
+     <Folder Include="Queries\" />
+     <Folder Include="Queries\Cotizacion\" />
+     <Folder Include="Queries\Cotizacion\CotizacionDetalleListado\" />
+     <Folder Include="Queries\Cotizacion\CotizacionListado\" />
+     <Folder Include="Queries\Cotizacion\ComboTipoMaterial\" />
+     <Folder Include="Queries\Cotizacion\ComboMaterialPrimario\" />
    </ItemGroup>
 </Project>
 
